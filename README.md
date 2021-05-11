@@ -8,4 +8,15 @@ Ini Termux Banner
 > cd TermuxBanner
 > bash adiixyzbanner.sh
 ```
-siap
+
+# Kalo disuruh Ke nano
+```
+Ketik yg lu mau untuk banner
+
+Klo udh siap
+> ctrl + x
+> ketik y
+```
+
+Udh siap
+Restart termux
