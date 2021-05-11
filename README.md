@@ -1,0 +1,2 @@
+# TermuxBanner
+Ini Termux Banner
